@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "wangyaoching<wang7186wang@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "module": "^1.2.5",
+    "modules": "^0.4.0",
+    "x-ray": "^2.3.2",
+    "xray": "^0.5.1"
+  }
 }
